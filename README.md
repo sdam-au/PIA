@@ -1,17 +1,14 @@
-# Meaningful title for the repository
-*pick type of repository (TOOL, ETL, ANALYSIS, ADMIN)*
+# Pain in Antiquity
 
 ---
 
 ## Purpose
-[In two to three sentences state the purpose of this repository, ideally tying it to an existing SDAM milestone. E.g., The purpose of this repository is to provide templates for all future SDAM repositories in order to save precious time and maintain high standards and uniformity of our documentation.]
+The purpose of this repo is to 
 
 ---
 ## Authors
-* Petra Hermankova [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6349-0540), SDAM project, petra@ancientsocialcomplexity.org
-* [Name], [ORCID], [Institution], [email]
-* [Name], [ORCID], [Institution], [email]
-* [Name], [ORCID], [Institution], [email]
+* Vojtěch Kaše [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)]([0000-0002-6601-1605](https://www.google.com/url?q=http://orcid.org/0000-0002-6601-1605&sa=D&ust=1588773325679000)), SDAM project, vojtech.kase@gmail.com
+* Vojtěch Linka,  Charles University, vojtech.p.linka@gmail.com
 
 ## License
 CC-BY-SA 4.0, see attached License.md
@@ -57,8 +54,6 @@ Anything else on data metadata and data used. Link to data repository or explana
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-
 
 
 
