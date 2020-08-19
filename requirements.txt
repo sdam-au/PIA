@@ -1,0 +1,8 @@
+pandas
+nltk
+bs4
+
+sddk
+anda
+
+tornado
