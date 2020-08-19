@@ -1,6 +1,6 @@
 pandas==1.0.5
 beautifulsoup4==4.6.3
-nltk==3.2.5
+nltk==3.4.5
 matplotlib==3.2.2
 seaborn==0.10.1
 gspread==3.0.1
