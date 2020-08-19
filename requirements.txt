@@ -1,6 +1,12 @@
 pandas
 nltk
 bs4
+seaborn
+matplotlib
+gspread
+gspread_dataframe
+google.colab
+oauth2client
 
 sddk
 anda
