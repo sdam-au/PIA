@@ -1,16 +1,22 @@
-pandas==1.0.5
-beautifulsoup4==4.6.3
-nltk==3.2.5
-matplotlib==3.2.2
-seaborn==0.10.1
-gspread==3.6.0
-joblib==0.16.0
+# basic data manipulation
+pandas==1.1.5
+numpy==1.19.4
+#sddk==2.8.2
+
+# visualisations
+matplotlib==3.3.3
+#seaborn==0.11.0
+
+# machine learning, NLP & statistics
 scikit-learn==0.23.2
-sklearn==0.0
-threadpoolctl==2.1.0
+#sklearn==0.0
 
-gspread_dataframe
-google-auth
-
-sddk
-anda
+#gensim==3.8.3
+#nltk==3.5
+# threadpoolctl==2.1.0
+#gensim==3.8.3
+#beautifulsoup4==4.6.3
+#gspread==3.6.0
+#joblib==0.16.0
+#gspread_dataframe
+#google-auth
