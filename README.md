@@ -1,6 +1,6 @@
 
 
-# PIA: Pain in Antiquity (under review)
+# PIA - article supplementary
 
 ---
 
