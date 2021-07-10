@@ -9,7 +9,8 @@ This repository serves as a supplementary material for the article "Pain and the
 
 ---
 ## Authors
-* anonymized (article currently under review)
+* Vojtěch Kaše
+* Vojtěch Linka
 
 ## License
 CC-BY-SA 4.0, see attached License.md
